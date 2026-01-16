@@ -1,6 +1,11 @@
 h1{
-  border-color: #d3e644;
-  border-style: dashed;
+  border-color: #40d547;
+  border-style: double;
+  text-align: center;
+}
+
+img{
+  text-align: center;
 }
 
 table {
